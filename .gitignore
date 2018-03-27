@@ -1,0 +1,3 @@
+*.zip
+articles/*
+.ipynb_checkpoints/*
