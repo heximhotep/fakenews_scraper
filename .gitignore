@@ -1,3 +1,4 @@
 *.zip
 articles/*
+articles_unlabeled/*
 .ipynb_checkpoints/*
